@@ -1,4 +1,4 @@
-package com.example.konfiguracja;
+package com.example.konfiguracja1;
 
 import android.os.Bundle;
 import android.view.View;
