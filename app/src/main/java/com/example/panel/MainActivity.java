@@ -80,10 +80,7 @@ public class MainActivity extends AppCompatActivity {
                 String selectedName = settingNames.get(position);
                 int selectedValue = settingValues.get(position);
 
-                editingLabelTextView.setText("Edytujesz: " + selectedName);
-                valueSeekBar.setProgress(selectedValue);
-                seekBarValueTextView.setText("Wartość: " + selectedValue);
-                valueSeekBar.setEnabled(true);
+              
             }
         });
 
